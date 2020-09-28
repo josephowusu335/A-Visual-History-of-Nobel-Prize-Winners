@@ -4,17 +4,17 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 
 ## Project Tasks ##
 
-- The most Nobel of Prizes\
-- So, who gets the Nobel Prize?\
-- USA dominance\
-- USA dominance, visualized\
-- What is the gender of a typical Nobel Prize winner?\
-- The first woman to win the Nobel Prize\
-- Repeat laureates\
-- How old are you when you get the prize?\
-- Age differences between prize categorie\
-- Oldest and youngest winners\
-- You get a prize!\
+- The most Nobel of Prizes
+- So, who gets the Nobel Prize?
+- USA dominance
+- USA dominance, visualized
+- What is the gender of a typical Nobel Prize winner?
+- The first woman to win the Nobel Prize
+- Repeat laureates
+- How old are you when you get the prize?
+- Age differences between prize categorie
+- Oldest and youngest winners
+- You get a prize!
 
 
 
